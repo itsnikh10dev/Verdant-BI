@@ -9,7 +9,7 @@ The platform aims to simplify business analytics by combining data processing, m
 
 Experience Verdant BI:
 
-**verdant-bi.netlify.app**
+- [Live Link](#-verdant-bi.netlify.app)
 
 Explore automated data cleaning, interactive dashboards,
 machine learning insights, and AI-powered analytics.
